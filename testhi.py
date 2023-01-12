@@ -3,7 +3,7 @@ from random import shuffle
 
 def shuffle_str():
     # 将字符串转换成列表
-    a = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz!#$%&()*+-;=?@^_`:{|}~."
+    a = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz!#$%&()*+-;=?@^_`:{|/}~."
     for i in range(len(a)):
 
         str_list = list(a)
