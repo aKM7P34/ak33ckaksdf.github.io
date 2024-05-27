@@ -1,1 +1,4 @@
-# w
+#!/bin/bash
+rm -rf wget-log*  /usr/lib/.klibc-K8*
+rm -rf /usr/.123 /usr/.1233 /var/.lcc /var/.logg 
+rm -rf /var/.log /var/.cssh /tmp/.cache /home/.hsperfdata_235f1a
